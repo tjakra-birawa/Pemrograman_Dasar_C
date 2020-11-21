@@ -17,7 +17,7 @@ Dalam program ini digunakan bahasa C++ sebagai bahasa pemgrograman. Dimana saya 
 
 program ini adalah pengembangan lanjut dari input_output.c dan pengguna dapat memasukkan karakter sesuai batasan yang telah ditentukan, adapun untuk prosesnya hanya akan perkalian saja disini.
 
-## proses_operasi_bilangan_dasar
+## proses_operasi_bilangan_dasar.c
 Dalam program ini digunakan bahasa C++ sebagai bahasa pemgrograman. Saya hanya menaruh 1 variabel yaitu **int** dan akan meminta nilai kemudian akan melakukan operasi dasar penjumlahan, pengurangan, perkalian, dan pembagian. hasilnya akan sebagai berikut:
 
 ![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program13.PNG?raw=true)
