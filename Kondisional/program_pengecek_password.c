@@ -16,7 +16,7 @@ int	main()	{
 		printf("PASSWORD  : ");
 			gets(passinput);
 			((strcmp(passinput,password) == 0 && strcmp(idinput,id)==0)) 
-			? printf("PASSWORD BENAR \n\n\nDATA DITEMUKAN! \n\nNAMA\t: CAKRA BHIRAWA \nTTL\t: JAKARTA, 24 JANUARI 2000 \nPENDIDIKAN :\n1. SD ALFALAH DARUSSALAM TROPODO 1, Sidoarjo\n2. SMPN 5 BOGOR\n3. SMAN 7 BOGOR\nDAFTAR PENNGALAMAN: \n1.KETUA EKSTRAKURIKULER JEPANG SMA 7 BOGOR\n\n")
+			? printf("PASSWORD BENAR \n\n\nDATA DITEMUKAN! \n\nNAMA\t: CAKRA BHIRAWA \nTTL\t: JAKARTA, xxx xxxxxxx xxxx \nPENDIDIKAN :\n1. SD ALFALAH DARUSSALAM TROPODO 1, Sidoarjo\n2. SMPN 5 BOGOR\n3. SMAN 7 BOGOR\nDAFTAR PENNGALAMAN: \n1.KETUA EKSTRAKURIKULER JEPANG SMA 7 BOGOR\n\n")
 			: printf("PASSWORD SALAH \n=========DATA TAK DITEMUKAN!========\n\n");
 	
 																																																																																
