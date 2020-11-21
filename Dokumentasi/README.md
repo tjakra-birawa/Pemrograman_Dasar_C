@@ -1,2 +1,2 @@
-# Dasar Input-Output dalam bahasa C
+### Catatan
 Berkas ini dipergunakan untuk pendokumentasian gambar dalam repository ini
