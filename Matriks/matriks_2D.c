@@ -7,7 +7,7 @@ int main()
 	int data[3][3];
 	int i,j;
 	int kolom = length(data);
-	int baris = length(data[0][0]);
+	int baris = length(data[0]);
 	
 	for(i=0; i < kolom; i++)
 	{
