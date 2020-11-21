@@ -1,31 +1,37 @@
 # Dasar Input-Output dalam bahasa C
-Pada berkas ini terdapat 3 jenis source code yang masing-masing akan dijelaskan dibawah ini, namun perlu diketahui bahwa pada kodingan ini digunakan 2 bahasa yaitu C dan C++, hal ini dikarenakan penugasan mata kuliah pemrograman dasar perdana kita akan memahami perbedaan bahasa C dan C++.
+Repository ini mendokumentasikan proses pembelajaran awal saya dalam memahami bahasa C dan C++ pada saat mata kuliah pemrograman dasar di Fakultas Ilmu Komputer Universitas Brawijaya. Adapun penggunaan kode pemrograman ini adalah guna pembelajaran dan pemahaman bagaimana kita dapat berinteraksi dengan bahasa tertentu untuk membuat program yang diinginkan.
 
-### input_output.c
-Dalam program ini digunakan bahasa C sebagai bahasa pemrograman. Lalu saya telah mendeklarasikan 2 tipe variabel yaitu **integer** (int) dan **character** (char) berikut adalah filenya; **int** nilai1, nilai2, hasil, dan nim dan **char** nama.
+## Dasar Input-Ouput
+Awalan yang akan dipelajari dalam Input Output yaitu fondasi dasar akan variabel dan syntax yang ada di suatu bahasa pemrograman. Dalam konteks ini adalah bahasa C dan C++.
 
-adapun tujuan dari variabel diatas bertujuan untuk menerima masukan berupa nama (selama masih satu kalimat dan tidak ada spasi) lalu nim serta nilai dan sejenisnya. kemudian nilai yang diterima pada nilai1 dan nilai2 nantinya akan dijumlahkan dan sistem console akan mengeluarkan hasil nama, nim, dan hasil.
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program13.PNG?raw=true)
 
-Overall program disini bertujuan untuk menunjukkan bagaimana kita dapat membuat masukan dan keluaran sederhana di suatu program.
+### Syntax Dasar
+Berikut adalah contoh syntax dasar yang dipergunakan dalam bahasa C
+**printf**   : berfungsi mencetak di layar console
+**scanf**    : berfungsi menerima input 
 
-### program penghitung pemakaian listrik sederhana.cpp
-dalam program ini digunakan bahasa C++ sebagai bahasa pemgrograman. dimana saya mendeklarasikan dahulu untuk setiap syntax akan menggunakan std diawalnya (karena dalam C++ diharuskan untuk menaruh std:: pada setiap kodingan). Lalu untuk variabel tersendiri saya mendeklarasikan 2 tipe yaitu **char** dan **int**. Pada program ini ditujukan untuk membuat sebuah keluaran sebagaimana berikut:
+adapun untuk input yang diterima dalam bahasa C diperlukan untuk dijelaskan lebih lanjut tipe variabelnya seperti:
+**%c**       : menerima variabel char
+**%d**       : menerima variabel decimal
+**%f**       : menerima variabel float
 
-Program penghitung pemakaian listrik sederhana 
-Masukkan Nama : Bpk Asisten 
-Kelurahan : Java 
-Masukkan posisi awal	Kwh Meter : 8000 
-Masukkan posisi akhir Khw Meter : 9000
-Masukkan biaya beban saat ini : 140 
-Masukkan PPJ (dalam	 persen) : 10
- ===================PLN	Java=================== 
-Nama : Bpk Asisten 
-Kelurahan : Java 
-Pemakaian bulan ini :	1000 Kwh	
-Meter Tarif Listrik : Rp 140000,-
-PPJ 10% : Rp 14000,- 
-Total Bayar : Rp154000,-
-==============================================
+dan berikut adalah contoh syntax dasar dalam bahasa C++
+**cin**     : berfungsi menerima input 
+**cout**    : berfungsi mencetak di layar console 
+
+*diatas adalah contoh, selengkapnya silahkan lihat kembali panduan pembelajaran*
+
+### Berkas yang termasuk
+Bagian ini memuat tiga file; **input_output.c** , **program_penghitung_pemakaian_listrik_sederhana.cpp**, dan **proses_operasi_bilagan_dasar.cpp**
+
+## Dasar Input-Ouput
+Awalan yang akan dipelajari dalam Input Output yaitu fondasi dasar akan variabel dan syntax yang ada di suatu bahasa pemrograman. Dalam konteks ini adalah bahasa C dan C++.
+
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program13.PNG?raw=true)
+
+
+### Syntax dasar
 
 
 ### proses_operasi_bilangan_dasar
