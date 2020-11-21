@@ -1,23 +1,29 @@
 # Ujian Praktikkum
 Pada berkas ini memuat program yang spesifik dibuat untuk Quiz, ujian tengah praktikum, dan ujian akhir praktikum pada mata kuliah pemrograman dasar
 
-## input_output.c
-Dalam program ini digunakan bahasa C sebagai bahasa pemrograman. Lalu saya telah mendeklarasikan 2 tipe variabel yaitu **integer** (int) dan **character** (char) berikut adalah filenya; **int** nilai1, nilai2, hasil, dan nim dan **char** nama.
+## matriks_pemindahan_atas.c
+program ini merupakan bentuk permainan isi matriks array 2D yaitu pemindahan angka keatas perlahan dan mencetaknya setiap kali bergerak.
 
-adapun tujuan dari variabel diatas bertujuan untuk menerima masukan berupa nama (selama masih satu kalimat dan tidak ada spasi) lalu nim serta nilai dan sejenisnya. kemudian nilai yang diterima pada nilai1 dan nilai2 nantinya akan dijumlahkan dan sistem console akan mengeluarkan hasil nama, nim, dan hasil.
+## matriks_pemindahan_kanan.c 
+program ini merupakan bentuk permainan isi matriks array 2D yaitu pemindahan angka ke kanan dan kiri perlahan dan mencetaknya setiap kali bergerak.
 
-![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program11.PNG?raw=true)
+## pengecekan_angka_prima.c
+program akan mengecek apakah angka tersebut adalah prima atau tidak bila benar dan salah program akan memberitahu bilangan prima dalam rentang 1-100.
 
-Overall program disini bertujuan untuk menunjukkan bagaimana kita dapat membuat masukan dan keluaran sederhana di suatu program. Perlu dicatat karena char disini tidak dideklarasikan besarannya maka input-nya hanya dapat 1 huruf bilamana lebih dari itu maka akan terjadi overflow.
+## permainan_batu-gunting-kertas_sederhana.c
+program sederhana untuk memilih dan bermain batu gunting kertas dengan nilai yang diminta oleh program sendiri akan berbeda setiap kali permainan.
 
-## program penghitung pemakaian listrik sederhana.cpp
-Dalam program ini digunakan bahasa C++ sebagai bahasa pemgrograman. Dimana saya mendeklarasikan dahulu untuk setiap syntax akan menggunakan std diawalnya (karena dalam C++ diharuskan untuk menaruh std:: pada setiap kodingan). Lalu untuk variabel tersendiri saya mendeklarasikan 2 tipe yaitu **char** dan **int**. Pada program ini ditujukan untuk membuat sebuah keluaran sebagaimana berikut:
+## permainan_percakapan_sederhana.c
+sebuah percakapan sederhana dimana pengguna akan bercakap dengan program dengan teks yang telah ditentukan.
 
-![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program12.PNG?raw=true)
+## program_pemesanan_kamar_hotel_sederhana.c
+program sederhana dalam memesan sebuah hotel yang akan booking dan melihat isi kamar saat itu dan lainnya.
 
-program ini adalah pengembangan lanjut dari input_output.c dan pengguna dapat memasukkan karakter sesuai batasan yang telah ditentukan, adapun untuk prosesnya hanya akan perkalian saja disini.
+## proses_operasi_matriks.c
+proses operasi sederhana seperti pengurangan, penjumlahan, dan perkalian matriks array 2D.
 
-## proses_operasi_bilangan_dasar
-Dalam program ini digunakan bahasa C++ sebagai bahasa pemgrograman. Saya hanya menaruh 1 variabel yaitu **int** dan akan meminta nilai kemudian akan melakukan operasi dasar penjumlahan, pengurangan, perkalian, dan pembagian. hasilnya akan sebagai berikut:
+## proses_segitiga_pascal.c
+pencetakan nilai segitiga pascal dalam bentuk pemrograman.
 
-![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program13.PNG?raw=true)
+## rekrusif_nama_cakra.c
+pencetakan nama dari huruf C, A, K, dan R berdasarkan perulangan
