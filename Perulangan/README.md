@@ -1,4 +1,4 @@
-# Kondisional dalam bahasa C
+# Perulangan dalam bahasa C
 Pada berkas ini akan diprogram dalam bahasa C, berkas ini mencoba untuk mendokumentasikan sistem perulangan dalam program seperti **for**, **do-while**, dan pemberhentian **break** berikut adalah penjelasan sekilas mengenai program disini
 
 ## perulangan_break.c
