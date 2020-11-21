@@ -2,6 +2,7 @@
 Pada berkas ini terdapat 3 jenis source code yang masing-masing akan dijelaskan dibawah ini, namun perlu diketahui bahwa pada kodingan ini digunakan 2 bahasa yaitu C dan C++, hal ini dikarenakan penugasan mata kuliah pemrograman dasar perdana kita akan memahami perbedaan bahasa C dan C++.
 
 ### input_output.c
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/tjakra-birawa/Pemrograman_Dasar_C/blob/master/Dokumentasi/program11.PNG?raw=true)
 Dalam program ini digunakan bahasa C sebagai bahasa pemrograman. Lalu saya telah mendeklarasikan 2 tipe variabel yaitu **integer** (int) dan **character** (char) berikut adalah filenya; **int** nilai1, nilai2, hasil, dan nim dan **char** nama.
 
 adapun tujuan dari variabel diatas bertujuan untuk menerima masukan berupa nama (selama masih satu kalimat dan tidak ada spasi) lalu nim serta nilai dan sejenisnya. kemudian nilai yang diterima pada nilai1 dan nilai2 nantinya akan dijumlahkan dan sistem console akan mengeluarkan hasil nama, nim, dan hasil.
